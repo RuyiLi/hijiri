@@ -15,6 +15,9 @@
     "avatar",
     "generator"
   ],
+  "dependencies": {
+    "canvas": "*"
+  },
   "author": "Ruyi Li",
   "license": "ISC",
   "bugs": {

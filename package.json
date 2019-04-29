@@ -1,0 +1,24 @@
+{
+  "name": "hijiri",
+  "version": "1.0.0",
+  "description": "An API to generate placeholder avatars.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuyiLi/hijiri.git"
+  },
+  "keywords": [
+    "avatar",
+    "generator"
+  ],
+  "author": "Ruyi Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuyiLi/hijiri/issues"
+  },
+  "homepage": "https://github.com/RuyiLi/hijiri#readme"
+}
